@@ -142,4 +142,4 @@ with open("hosts", 'w') as hosts:
 print('All done.')
 print('The output Hosts file is in the "hosts" in the same directory as "MicrosoftHostsPicker.py".')
 print('Please select the hosts you need to add to your system.')
-input()
+# input()
